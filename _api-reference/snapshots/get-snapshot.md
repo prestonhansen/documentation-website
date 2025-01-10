@@ -22,7 +22,7 @@ GET _snapshot/<repository>/<snapshot>/
 | Parameter | Data type | Description |
 | :--- | :--- | :--- |
 | repository | String | The repository that contains the snapshot to retrieve. |
-| snapshot | String | Snapshot to retrieve.
+| snapshot | String | Snapshot to retrieve. To retrive all snapshots, use `_all`
 
 ## Query parameters
 
